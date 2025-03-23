@@ -1,4 +1,4 @@
- 3D Animated Image Gallery
+ 3D Animated Image Gallery Live APP < https://pulicherubharathkumar.github.io/Image-Gallery/ >
 🚀 A stunning 3D animated image gallery with a lightbox viewer, auto-slideshow, and theme toggle.
 
 
@@ -13,7 +13,6 @@
 🔹 CSS – Animations and responsive styling
 🔹 JavaScript – Lightbox, slideshow, and theme toggling
 
-📌 How to Use?
 
 
 
